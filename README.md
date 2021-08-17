@@ -1,13 +1,16 @@
 
-# 정회성의 깃레포에 오신것을 환영합니다.
-학창시절엔 수학과 통계학 수업을 많이 들었습니다. 책 속의 개념을 주위 사람들에게 쉽게 풀어 설명하는 것을 좋아했습니다. 대학원에 다녀보니 저는 사회과학자로서 연구를 하는 것보다는 프로그래머로서 실용적인 문제를 푸는 것을 더 좋아하더군요. 계속 배우고 발전하는 사람이 되고 싶습니다. 그런 점에서 프로그래밍은 제가 사랑하는 일이 아닐 수 없습니다. 약간의 검색과 시간을 할애하기만 하면, 지적인 호기심을 마음껏 충족시킬 수 있다는 사실은 제게 큰 위안이 되었습니다. 광활한 오픈 소스로부터 모든 것을 배운만큼, 제가 아는 것들을 나눌 수 있는 깃레포를 차곡차곡 쌓아가는 즐거움이 큽니다.
+## 개요
+* 효율적으로 문제를 해결하기 위하여 고민하고, 라이브러리와 프레임워크를 뜯어보는 과정이 중요하다 생각하는 개발자 입니다.
+* 개발을 하다가 정신을 차리면 어느 순간 시간이 많이 지나있고 허리와 어깨가 뻐끈합니다. 그런 몰입의 순간을 좋아하는 개발자입니다.
+* 적극적인 커뮤니케이션을 통하여 팀에 기여할 수 있는, 기본기가 탄탄한 개발자로 성장하고 싶습니다.
 
 ## 기술 스택  
 * Backend
   * Java
   * SpringBoot, SpringMVC, Spring Data JPA
   * JPA
-  * Junit4
+  * Spring Security, OAuth 2.0
+  * Junit4, Junit5
   * Gradle, Maven
   * IntelliJ, Visual Studio Code
   * Git
@@ -21,8 +24,12 @@
 * Python(Pytorch), R, Hadoop(Mapreduce), etc.
 
 ## 백엔드 관련 프로젝트
-* [평화지수 웹 어플리케이션 ][peace-github]
-  * SpringBoot, JPA
+* [나홀로 웹에][alone-github]
+  * SpringBoot, JPA, Gradle, OAuth 2.0, Mustache, JUnit4
+  * MariaDB, H2
+  * AWS EC3, RDS, S3, Travis CI, nginx
+* [평화지수 웹 어플리케이션][peace-github]
+  * SpringBoot, JPA, Maven, Spring Security
   * Maria DB
   * Bootstrap, Thymeleaf
 * [부스트코스 풀스택 개발자 과정 백엔드][back-github]
@@ -45,6 +52,7 @@
 * 국회의원의 FTA 반응성에 대한 연구: 지역구 산업 비율과 FTA 발언 횟수의 상관관계
 * 국회의원의 싸움과 국회의원 선수간의 게임 이론 모델 분석: 국회 상임위원회 회의록 분석
 
+
 ## 이력
 * 서울대학교 정치외교학과 졸업
 * 공군 만기 전역
@@ -61,3 +69,4 @@
 [front-github]: https://github.com/HSJung93/frontend_practice
 [calculator-github]: https://github.com/HSJung93/Calculator
 
+[alone-github]: https://github.com/HSJung93/alone-webservice
