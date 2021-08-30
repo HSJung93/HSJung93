@@ -4,25 +4,6 @@
 * 개발을 하다가 정신을 차리면 어느 순간 시간이 많이 지나있고 허리와 어깨가 뻐끈합니다. 그런 몰입의 순간을 좋아하는 개발자입니다.
 * 적극적인 커뮤니케이션을 통하여 팀에 기여할 수 있는, 기본기가 탄탄한 개발자로 성장하고 싶습니다.
 
-## 기술 스택  
-* Backend
-  * Java
-  * SpringBoot, SpringMVC, Spring Data JPA
-  * JPA
-  * Spring Security, OAuth 2.0
-  * Junit4, Junit5
-  * Gradle, Maven
-  * IntelliJ, Visual Studio Code
-  * Git
-* DevOps
-  * AWS EC2, S3
-  * MySQL, MariaDB
-  * Tomcat
-* Frontend
-  * HTML 5, CSS3(SCSS), JS
-  * React
-* Python(Pytorch), R, Hadoop(Mapreduce), etc.
-
 ## 백엔드 관련 프로젝트
 * [나홀로 웹에][alone-github]
   * SpringBoot, JPA, Gradle, OAuth 2.0, Mustache, JUnit4
@@ -39,19 +20,37 @@
 * [하둡 맵리듀스][hadoop-mapreduce-github]
 * [자바 계산기][calculator-github]
 
-## 프론트엔드 관련 프로젝트
+## 기술 스택  
+* Backend
+  * Java
+  * SpringBoot, SpringMVC, Spring Data JPA
+  * JPA
+  * Spring Security, OAuth 2.0
+  * Junit4, Junit5
+  * Gradle, Maven
+  * IntelliJ, Visual Studio Code, Vim
+  * Git
+* DevOps
+  * AWS EC2, S3
+  * MySQL, MariaDB
+  * Tomcat
+* Frontend
+  * HTML 5, CSS3(SCSS), JS
+  * React
+* Python(Pytorch), R, Hadoop(Mapreduce), etc.
+
+## 그 외 프로젝트 
+### 프론트엔드 관련 프로젝트
 * [부스트코스 풀스택 개발자 과정 프론트엔드][front-github]
   * Vanilla JS
 * [To-Do-List 만들기][react-github]
   * React
-
-## 딥러닝/ 통계 데이터 분석 관련 프로젝트
+### 딥러닝/ 통계 데이터 분석 관련 프로젝트
 * LSTM과 BERT를 이용한 국회의원 싸움 예측 모델 비교
 * 네트워크 데이터의 매칭 방법론 연구: CAFTA의 효과 분석
 * 2020 딥러닝 논문 세미나
 * 국회의원의 FTA 반응성에 대한 연구: 지역구 산업 비율과 FTA 발언 횟수의 상관관계
 * 국회의원의 싸움과 국회의원 선수간의 게임 이론 모델 분석: 국회 상임위원회 회의록 분석
-
 
 ## 이력
 * 서울대학교 정치외교학과 졸업
