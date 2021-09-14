@@ -1,3 +1,4 @@
+
 ## 개요
 * 효율적으로 문제를 해결하기 위하여 고민하고, 라이브러리와 프레임워크를 뜯어보는 과정이 중요하다 생각하는 개발자 입니다.
 * 개발을 하다가 정신을 차리면 어느 순간 시간이 많이 지나있고 허리와 어깨가 뻐끈합니다. 그런 몰입의 순간을 좋아하는 개발자입니다.
@@ -14,7 +15,10 @@
   * 템플릿 엔진으로는 타임리프를 사용하였으며, 부트스트랩을 참고하여 주요 레이아웃과 버튼 그리고 폼을 작성하였습니다. 스프링 시큐리티를 이용하여 로그인 처리를 하였습니다.
 * [부스트코스 풀스택 개발자 과정 백엔드][back-github]
   * SpringMVC로 구현한 웹 프로젝트입니다.
+  * JSP, WAS, tomcat, servlet, JDBC, Session & Cookie
   * MySQL 데이터 베이스를 JDBC를 이용하여 사용하였습니다.
+* [FastAPI를 이용한 웹 어플리케이션][fast-api]
+  * [비동기/ 병렬 처리][concurrency-parallelism]를 지원하는 파이썬 기반의 웹 프레임워크인 FastAPI를 이용한 프로젝트입니다.
 * [자바 병렬 프로그래밍][concurrency-github]
 * [하둡 맵리듀스][hadoop-mapreduce-github]
 * [자바 계산기][calculator-github]
@@ -37,7 +41,7 @@
 * Frontend
   * HTML 5, CSS3(SCSS), JS
   * React
-* Python(Pytorch), R, Hadoop(Mapreduce), etc.
+* Python(FastAPI, Pytorch), R, Hadoop(Mapreduce), etc.
 
 ## 그 외
 
@@ -71,3 +75,5 @@
 [calculator-github]: https://github.com/HSJung93/Calculator
 
 [alone-github]: https://github.com/HSJung93/alone-webservice
+[fast-api]: https://github.com/HSJung93/FastAPIProject
+[concurrency-parallelism]: https://hsjung93.github.io/%EC%BD%94%EB%93%9C/coroutine/
