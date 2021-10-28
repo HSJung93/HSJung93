@@ -1,3 +1,5 @@
+[![HSJung93's github stats](https://github-readme-stats.vercel.app/api?username=HSJung93)](https://github.com/HSJung93/github-readme-stats)
+
 ## 개요
 
 - 효율적으로 문제를 해결하기 위하여 고민하고, 라이브러리와 프레임워크를 뜯어보는 과정이 중요하다 생각하는 개발자 입니다.
