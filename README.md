@@ -1,4 +1,4 @@
-[![HSJung93's github stats](https://github-readme-stats.vercel.app/api?username=HSJung93)](https://github.com/HSJung93/github-readme-stats)
+<!-- [![HSJung93's github stats](https://github-readme-stats.vercel.app/api?username=HSJung93)](https://github.com/HSJung93/github-readme-stats) -->
 
 ## 개요
 
