@@ -1,38 +1,4 @@
-## 개요
-
-- 효율적으로 문제를 해결하기 위하여 고민하고, 라이브러리와 프레임워크를 뜯어보는 과정이 중요하다 생각하는 개발자 입니다.
-- 개발을 하다가 정신을 차리면 어느 순간 시간이 많이 지나있고 허리와 어깨가 뻐끈합니다. 그런 몰입의 순간을 좋아하는 개발자입니다.
-- 적극적인 커뮤니케이션을 통하여 팀에 기여할 수 있는, 기본기가 탄탄한 개발자로 성장하고 싶습니다.
-
-## 기술 스택
-
-### Backend
-
-- Java, Python
-- SpringBoot, SpringMVC, Spring Data JPA, Django, FastAPI
-- Spring Security, OAuth 2.0
-- Junit4, Junit5, Pytest
-- Gradle, Maven
-- MySQL, MariaDB
-- IntelliJ, Visual Studio Code, Vim
-- Git
-
-### DevOps
-
-- AWS EC2, S3, CodeDeploy
-- Travis CI, Nginx
-
-### Frontend
-
-- HTML 5, CSS3(SCSS), JS
-- React
-
-### Data Science
-
-- Python, R
-- Pytorch, PyStan, Tidyverse, RStan
-
-## 프로젝트
+## 토이 프로젝트
 
 ### Backend
 
@@ -92,19 +58,10 @@
 
 ### Data_Science
 
-- LSTM과 BERT를 이용한 국회의원 싸움 예측 모델 비교
-- 네트워크 데이터의 매칭 방법론 연구: CAFTA의 효과 분석
-- 2020 딥러닝 논문 세미나
 - [국회의원의 FTA 반응성에 대한 연구: 지역구 산업 비율과 FTA 발언 횟수의 상관관계][python-r-congress]
-- 국회의원의 싸움과 국회의원 선수간의 게임 이론 모델 분석: 국회 상임위원회 회의록 분석
 
 ### et_cetera
 
-- [깃을 이용한 협업 연습][git-co-work]
-  - fotGitTest1 아이디를 만들어서 -Git-forGitTest 레포지토리를 만들었습니다.
-  - HSJung93 아이디로 이를 fork 해온 뒤에 '컨텐츠-더하기'라는 브랜치를 새로 만들고, 버전 관리도 연습합니다.
-  - HSJung93 아이디로 pull request를 보낸 뒤, forGitTest1으로 승인, merge 합니다.
-  - 이중 인격, 혼자 놀기의 진수를 엿볼 수 있습니다!
 - [자바 병렬 프로그래밍][concurrency-github]
 - [자바 계산기][calculator-github]
 
