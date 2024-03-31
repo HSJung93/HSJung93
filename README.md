@@ -1,8 +1,15 @@
-## 토이 프로젝트
+# 이력
+- SK텔레콤 서버 백엔드 개발자 (2022 ~ )
+- 스마일게이트 스토브 개발 캠프 2기 참여
+- 서울대학교 외교학 전공 대학원 수료(베이즈 통계학, 국제정치경제학 전공)
+- 에이젠 글로벌 인턴
+- 서울대학교 빅데이터 핀테크 과정 수료
+- 공군 만기 전역
+- 서울대학교 정치외교학과 졸업
 
-### Backend
+# 토이 프로젝트
 
-#### Java(Spring)
+## Java(Spring)
 
 - [나홀로 웹에][alone-github]
   - SpringBoot로 배포단계까지 구현한 웹서비스입니다. 스프링 이니셜라이저를 사용하지는 않고, 직접 Gradle에 플러그인 의존성을 위한 관리를 설정하였습니다. JUnit4로 단위 테스트 코드를 작성하였습니다.
@@ -17,7 +24,7 @@
   - 자바로 JSP와 서블릿을 실행할 수 있는 환경을 제공하는 Tomcat을 사용하여, Model, View, Controller를 모델을 이해하고 구현하였습니다.
   - MySQL 데이터 베이스와 Spring JDBC를 사용하였습니다.
 
-#### Python(Django, FastAPI)
+## Python(Django, FastAPI)
 
 - [Django를 이용한 URL Shortener와 블로그 만들기][django-web]
   - 블로그의 경우 글쓰기 수정, 삭제, 댓글 기능을 구현하였습니다. 부트스트랩 4.5.3을 사용하였으며 Django에서 기본적으로 제공하는 admin page를 사용합니다. /feed url에 RSS를 구현하였습니다.
@@ -65,15 +72,7 @@
 - [자바 병렬 프로그래밍][concurrency-github]
 - [자바 계산기][calculator-github]
 
-## 이력
 
-- 서울대학교 정치외교학과 졸업
-- 공군 만기 전역
-- 서울대학교 빅데이터 핀테크 과정 수료
-- 에이젠 글로벌 인턴
-- 서울대학교 외교학 전공 대학원 수료(베이즈 통계학, 국제정치경제학 전공)
-- 스마일게이트 스토브 개발 캠프 2기 참여
-- SK텔레콤 서버 백엔드 개발자
 
 [react-github]: https://github.com/HSJung93/-React-ToDoList
 [concurrency-github]: https://github.com/HSJung93/-Java-ConcurrencyInPractice
