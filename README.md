@@ -46,11 +46,7 @@
 
 ### Full_Stack
 
-- [React와 Spring으로 인증서버 만들기][react-spring-auth]
-  - React와 Typescript로 로그인/회원가입 페이지만들기
-  - Spring과 Spring Security로 salt를 사용하는 토큰을 사용한 인증 기능 구현
-  - Redis를 Token을 저장하고 파기하는 캐시 DB로 사용/ MySQL를 유저 정보를 저장 및 확인하는 사용자 DB로 사용
-  - Google SMTP로 회원가입 메일 발송
+- [React와 Spring으로 풀스택 인증서버 만들기][react-spring-auth]
 
 ### Big_Data
 
