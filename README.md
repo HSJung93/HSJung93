@@ -23,7 +23,7 @@
 - [부스트코스 풀스택 개발자 과정 프론트엔드][front-github]
 - [To-Do-List 만들기][react-github]
 
-### Data Science/ Engineering
+## Data Science/ Engineering
 - [국회의원의 FTA 반응성에 대한 연구: 지역구 산업 비율과 FTA 발언 횟수의 상관관계][python-r-congress]
 - [메타버스 체류 시간 리텐션 비교][metaverse]
 - [도커 컴포즈로 하둡 클러스터 만들기][docker-hadoop]
