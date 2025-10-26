@@ -10,13 +10,13 @@
 # 토이 프로젝트
 ## Web
 - [React와 Spring으로 풀스택 인증서버 만들기][react-spring-auth]
+- [평화지수 웹 어플리케이션][peace-github]
+- [Django를 이용한 URL Shortener와 블로그 만들기][django-web]
 ### Backend
 - [나홀로 웹에][alone-github]
-- [평화지수 웹 어플리케이션][peace-github]
 - [부스트코스 풀스택 개발자 과정 백엔드][back-github]
 - [자바 병렬 프로그래밍][concurrency-github]
 - [자바 계산기][calculator-github]
-- [Django를 이용한 URL Shortener와 블로그 만들기][django-web]
 - [FastAPI를 이용한 웹 어플리케이션][fast-api]
 ### Frontend
 - [벨로퍼트와 함께하는 모던 리액트][begin-react-github]
