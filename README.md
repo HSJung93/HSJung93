@@ -12,20 +12,20 @@
 2. 팀 데이터 파이프라인 공용화 (dbt + Airflow 표준 도입 주도)
   - 노트북·원시 SQL·셸·파이썬 러너 4종으로 흩어진 파이프라인을 저장소 진단 문서로 수치화하고, 전환 계획에 대한 팀 합의를 끌어냈습니다.
   - 역치환 검증과 양방향 EXCEPT 병행 검증으로 결과 동일성을 기계적으로 증명한 뒤 하루 만에 컷오버했습니다.
-  - 보호 브랜치·MR 전 정적 확인·MR 본문 규칙을 팀 표준으로 정착시켰습니다(저장소 MR 리뷰 팀 최다). <!-- TODO: [글](https://hsjung93.github.io/posts/migrating-notebook-sql-to-dbt-safely/) -->
+  - 보호 브랜치·MR 전 정적 확인·MR 본문 규칙을 팀 표준으로 정착시켰습니다(저장소 MR 리뷰 팀 최다). <!-- TODO: [글](https://hsjung93.github.io/posts/adopting-dbt-airflow-in-a-marketing-data-team/) -->
 
 3. 사업부서 월간 통계 데이터 마트 + 대시보드 개발 (7주 MVP)
   - 매월 엑셀로 만들던 통계를 dbt 마트와 React 대시보드로 전환했습니다. "축은 파이프라인, 조합은 화면" 설계로 필터 추가 요청 대부분을 화면 수정만으로 처리했습니다.
-  - 골든 테스트와 dbt 실행 현황 페이지로 비개발 사용자가 숫자 변화를 스스로 확인할 수 있게 했습니다. Vitest 500건과 커버리지 게이트로 품질을 유지했습니다. <!-- TODO: [글](https://hsjung93.github.io/posts/axes-in-pipeline-combinations-in-ui/) -->
+  - 골든 테스트와 dbt 실행 현황 페이지로 비개발 사용자가 숫자 변화를 스스로 확인할 수 있게 했습니다. Vitest 500건과 커버리지 게이트로 품질을 유지했습니다. <!-- TODO: [글](https://hsjung93.github.io/posts/adopting-dbt-airflow-in-a-marketing-data-team/) -->
 
 4. 캠페인 효과 측정 실험 설계 및 오픈소스 기여
   - 플래그십 캠페인 MMS의 순수 효과를 측정하기 위해 100만/100만 규모 무작위 대조 실험 2회를 설계·실행했습니다. 해시 기반 분할로 재현성을 확보하고, 집계 기준 불일치로 역효과처럼 보이던 결과를 ITT 재집계로 바로잡았습니다.
-  - uber/causalml Causal Forest의 병렬 학습이 느려지는 결함(Cython linetrace → GIL 경합)을 규명해 [수정 PR](https://github.com/uber/causalml/pull/914)이 v0.17.0에 머지됐습니다. 학습 시간 27분 → 2.6분. [글](https://hsjung93.github.io/posts/causalml-cython-linetrace-perf/) <!-- TODO: [rand(n)](https://hsjung93.github.io/posts/athena-rand-is-not-a-seed/) [ITT](https://hsjung93.github.io/posts/itt-when-denominators-differ/) -->
+  - uber/causalml Causal Forest의 병렬 학습이 느려지는 결함(Cython linetrace → GIL 경합)을 규명해 [수정 PR](https://github.com/uber/causalml/pull/914)이 v0.17.0에 머지됐습니다. 학습 시간 27분 → 2.6분. [글](https://hsjung93.github.io/posts/causalml-cython-linetrace-perf/) <!-- TODO: [실험 설계](https://hsjung93.github.io/posts/how-big-an-ab-test-for-an-mms-campaign/) [rand(n)](https://hsjung93.github.io/posts/athena-rand-is-not-a-seed/) -->
 
 5. 본부 AI 전환 교육 및 TF 활동
   - 본부 14개 팀 비개발 마케터를 대상으로 바이브 코딩·배포 교육 3차수 커리큘럼을 설계하고 강의했습니다. 교안·사전조사 웹페이지를 직접 개발해 배포 과정 자체를 시연했습니다.
   - AI 전환 TF 상근으로 147명의 업무 데이터를 분석하고 과제 8건을 진단해 연 2.4 FTE 절감을 실측했습니다.
-  - Claude Code 스킬 마켓플레이스와 저장소 규칙(세션 규칙 파일, 경로별 규칙, 주석 금지, MR 4단 본문)을 팀 표준으로 정착시켰습니다. <!-- TODO: [교육](https://hsjung93.github.io/posts/teaching-git-and-nginx-to-marketers/) [팀 표준](https://hsjung93.github.io/posts/claude-code-team-standard-mistakes/) -->
+  - Claude Code 스킬 마켓플레이스와 저장소 규칙(세션 규칙 파일, 경로별 규칙, 주석 금지, MR 4단 본문)을 팀 표준으로 정착시켰습니다. <!-- TODO: [글](https://hsjung93.github.io/posts/teaching-git-and-nginx-to-marketers/) -->
 
 # 2022~2025 — 백엔드
 1. 레거시 회원/인증 시스템을 대체하는 신규 회원/인증 시스템 개발.
